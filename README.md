@@ -24,11 +24,3 @@ A Short Link Generator created using rebrandl api and PyQt5 to make short links,
  <img src="PVS/ppic.gif">
 </kbd>
 
-
-# Author
-- Github: [@Aminjjjeffrey](https://github.com/Aminjjjeffrey)
-- Twitter: [@Aminjjjeffrey](https://twitter.com/Aminjjjeffrey)
-
-
-
-
